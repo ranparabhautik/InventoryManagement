@@ -10,6 +10,6 @@ public class CategoryMapping:Profile
     {
         CreateMap<CreateCategoryDTO, ProductCategories>().ReverseMap();
         CreateMap<UpdateCategoriesDTO, ProductCategories>().ReverseMap();
-        CreateMap<ResponseCategoryDTO,ProductCategories>();
+        CreateMap<ProductCategories,ResponseCategoryDTO>();
     }
 }

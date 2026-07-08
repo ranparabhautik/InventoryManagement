@@ -10,9 +10,12 @@ public class PurchaseOrderMapping:Profile
     {
         CreateMap<CreatePurchaseOrderDTO,PurchaseOrder>().ReverseMap();
         CreateMap<ItemDTO,PurchaseOrderItem>().ReverseMap();
+        CreateMap<PurchaseOrderItem, ItemDTO>();
+        CreateMap<PurchaseOrder, ResponseOrderPurchaseDTO>().ForMember(dest => dest.SupplierName, opt => opt.MapFrom(src => src.Supplier.SupplierName)).ForMember(dest => dest.WareHouseName, opt => opt.MapFrom(src => src.Warehouse.WareHouseName)).ForMember(dest => dest.Items, opt => opt.MapFrom(src => src.PurchaseOrderItems))
 
-        CreateMap<PurchaseOrder,ResponseOrderPurchaseDTO>().ForMember(dest=> dest.SupplierName,opt=> opt.MapFrom(src=> src.Supplier.SupplierName)).ForMember(dest=> dest.WareHouseName, opt=> opt.MapFrom(src=> src.Warehouse.WareHouseName)).ForMember(dest=> dest.Items,opt=> opt.MapFrom(src=> src.PurchaseOrderItems));      
+            .ForMember(dest => dest.TotalAmt, opt => opt.MapFrom(src => src.PurchaseOrderItems.Sum(x => x.Quantity * x.UnitPrice)))
 
+            .ForMember(dest => dest.Items, opt => opt.MapFrom(src => src.PurchaseOrderItems));
 
 
     }

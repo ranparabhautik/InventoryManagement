@@ -144,9 +144,14 @@ namespace InventoryManagement.Migrations
                     b.Property<DateTime>("UpdatedAt")
                         .HasColumnType("datetime2");
 
+                    b.Property<Guid>("WareHouseId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.HasKey("Id");
 
                     b.HasIndex("SupplierId");
+
+                    b.HasIndex("WareHouseId");
 
                     b.ToTable("Purchase_Order", (string)null);
                 });
@@ -334,7 +339,15 @@ namespace InventoryManagement.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
+                    b.HasOne("InventoryManagement.Model.WareHouse", "Warehouse")
+                        .WithMany()
+                        .HasForeignKey("WareHouseId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Supplier");
+
+                    b.Navigation("Warehouse");
                 });
 
             modelBuilder.Entity("InventoryManagement.Model.PurchaseOrderItem", b =>

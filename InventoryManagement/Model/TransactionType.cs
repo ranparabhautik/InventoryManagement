@@ -6,5 +6,6 @@ public enum TransactionType
     StockOut,
     TransferIn,
     TransferOut,
-    Return
+    Return,
+    PurchaseReceipt
 }

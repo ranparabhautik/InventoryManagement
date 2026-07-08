@@ -6,6 +6,6 @@ namespace InventoryManagement.Repository.Interface;
 public interface IProductRepository:IGenericRepository<Product>
 {
     Task<IEnumerable<Product>> GetLowStockProduct();
-    Task<ResponseProductDTO?> GetProductDetails(Guid id);
+    Task<Product?> GetProductDetails(Guid id);
 
 }

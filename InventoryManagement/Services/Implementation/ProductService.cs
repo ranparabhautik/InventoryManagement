@@ -12,11 +12,13 @@ public class ProductService(IUnitOfWork uow,IMapper _mapper) : IProductService
     {
         var product = _mapper.Map<Product>(dto);
         await uow.ProductRepo.CreateAsync(product);
+        await uow.SaveChangesAllAsync();
     }
 
     public async Task DeleteProduct(Guid id)
     {
         await uow.ProductRepo.DeleteAsync(id);
+        await uow.SaveChangesAllAsync();
     }
 
     public async Task<IEnumerable<ResponseProductDTO>> GetAllProducts()
@@ -31,10 +33,19 @@ public class ProductService(IUnitOfWork uow,IMapper _mapper) : IProductService
         var product = await uow.ProductRepo.GetProductDetails(Id);
         var result = _mapper.Map<ResponseProductDTO>(product);
         return result;
+    } 
+
+    public async Task UpdateProduct(Guid id, UpdateProductDTO dto)
+    {
+        var product = await uow.ProductRepo.GetByIdAsync(id);
+        if(product == null)
+        {
+            throw new Exception("Product not found");
+        }
+        var result = _mapper.Map(dto, product);
+        await uow.ProductRepo.UpdateAsync(result);
+        await uow.SaveChangesAllAsync();
     }
 
-    public Task UpdateProduct(Guid id, UpdateProductDTO dto)
-    {
-        throw new NotImplementedException();
-    }
+    
 }

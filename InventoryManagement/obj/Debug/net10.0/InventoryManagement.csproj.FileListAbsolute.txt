@@ -160,3 +160,5 @@ C:\Users\bhautik.ranpara\source\repos\MCPs\InventoryManagement\InventoryManageme
 C:\Users\bhautik.ranpara\source\repos\MCPs\InventoryManagement\InventoryManagement\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\bhautik.ranpara\source\repos\MCPs\InventoryManagement\InventoryManagement\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\bhautik.ranpara\source\repos\MCPs\InventoryManagement\InventoryManagement\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bhautik.ranpara\source\repos\MCPs\InventoryManagement\InventoryManagement\obj\Debug\net10.0\InventoryManagement.sourcelink.json
+C:\Users\bhautik.ranpara\source\repos\MCPs\InventoryManagement\InventoryManagement\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
