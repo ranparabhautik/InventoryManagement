@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\model\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\model\\auditentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\services\\implementation\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -267,10 +275,6 @@
       "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\data\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|c:\\users\\bhautik.ranpara\\source\\repos\\mcps\\inventorymanagement\\inventorymanagement\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55461311-3C7B-FF92-5080-2DFE2F541306}|InventoryManagement\\InventoryManagement.csproj|solutionrelative:inventorymanagement\\model\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -282,50 +286,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\CategoryService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\CategoryService.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\CategoryService.cs",
               "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\CategoryService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T04:53:25.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\ProductService.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\ProductService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\ProductService.cs",
-              "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\ProductService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T12:36:13.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PurchaseService.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
-              "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T07:32:50.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SupplierService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\SupplierService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\SupplierService.cs",
@@ -333,12 +311,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\SupplierService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowBQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T05:16:19.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T05:16:19.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "WareHouseService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\WareHouseService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\WareHouseService.cs",
@@ -346,25 +323,24 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\WareHouseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T05:30:50.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T05:30:50.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CategoryMapping.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Mappings\\CategoryMapping.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Mappings\\CategoryMapping.cs",
               "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Mappings\\CategoryMapping.cs",
               "RelativeToolTip": "InventoryManagement\\Mappings\\CategoryMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-07T11:37:15.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "InventoryService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\InventoryService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\InventoryService.cs",
@@ -372,12 +348,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\InventoryService.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAcwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T05:51:00.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T05:51:00.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "InventoryController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Controllers\\InventoryController.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\InventoryController.cs",
@@ -385,12 +360,61 @@
               "RelativeToolTip": "InventoryManagement\\Controllers\\InventoryController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T10:18:21.166Z",
+              "WhenOpened": "2026-07-08T10:18:21.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Data\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "InventoryManagement\\Data\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T10:14:11.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "AuditEntity.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\AuditEntity.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Model\\AuditEntity.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\AuditEntity.cs",
+              "RelativeToolTip": "InventoryManagement\\Model\\AuditEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T07:51:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
+              "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\PurchaseService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T07:32:50.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagement\\Services\\Implementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "InventoryManagement\\Services\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T12:36:13.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Program.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Program.cs",
@@ -398,12 +422,11 @@
               "RelativeToolTip": "InventoryManagement\\Program.cs",
               "ViewState": "AgIAACoAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T05:14:11.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T05:14:11.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\CategoryController.cs",
@@ -411,12 +434,11 @@
               "RelativeToolTip": "InventoryManagement\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T09:51:15.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T09:51:15.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "SupplierController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\SupplierController.cs",
@@ -424,12 +446,11 @@
               "RelativeToolTip": "InventoryManagement\\Controllers\\SupplierController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T10:00:10.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T10:00:10.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "WareHouseController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Controllers\\WareHouseController.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\WareHouseController.cs",
@@ -437,12 +458,11 @@
               "RelativeToolTip": "InventoryManagement\\Controllers\\WareHouseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T10:06:22.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T10:06:22.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "PurchaseOrderController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Controllers\\PurchaseOrderController.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\PurchaseOrderController.cs",
@@ -450,12 +470,11 @@
               "RelativeToolTip": "InventoryManagement\\Controllers\\PurchaseOrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T10:27:47.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T10:27:47.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\appsettings.json",
               "RelativeDocumentMoniker": "InventoryManagement\\appsettings.json",
@@ -463,12 +482,11 @@
               "RelativeToolTip": "InventoryManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-08T10:43:58.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T10:43:58.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Controllers\\ProductController.cs",
@@ -476,12 +494,11 @@
               "RelativeToolTip": "InventoryManagement\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T09:33:28.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T09:33:28.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Exceptions\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Exceptions\\ExceptionMiddleware.cs",
@@ -489,12 +506,11 @@
               "RelativeToolTip": "InventoryManagement\\Exceptions\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T08:23:02.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T08:23:02.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IPurchaseService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Interface\\IPurchaseService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Interface\\IPurchaseService.cs",
@@ -502,12 +518,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Interface\\IPurchaseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T06:42:50.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T06:42:50.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "PurchaseOrderMapping.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Mappings\\PurchaseOrderMapping.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Mappings\\PurchaseOrderMapping.cs",
@@ -515,12 +530,11 @@
               "RelativeToolTip": "InventoryManagement\\Mappings\\PurchaseOrderMapping.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T11:46:34.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T11:46:34.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "CreatePurchaseOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\CreatePurchaseOrderDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\CreatePurchaseOrderDTO.cs",
@@ -528,12 +542,11 @@
               "RelativeToolTip": "InventoryManagement\\DTOs\\CreatePurchaseOrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T08:43:58.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T08:43:58.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Implementation\\ProductRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Implementation\\ProductRepository.cs",
@@ -541,12 +554,11 @@
               "RelativeToolTip": "InventoryManagement\\Repository\\Implementation\\ProductRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T05:57:11.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T05:57:11.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Interface\\IProductRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Interface\\IProductRepository.cs",
@@ -554,12 +566,11 @@
               "RelativeToolTip": "InventoryManagement\\Repository\\Interface\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T05:52:30.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T05:52:30.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Interface\\IProductService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Interface\\IProductService.cs",
@@ -567,12 +578,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Interface\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T06:30:10.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T06:30:10.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "TransactionType.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\TransactionType.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Model\\TransactionType.cs",
@@ -580,12 +590,11 @@
               "RelativeToolTip": "InventoryManagement\\Model\\TransactionType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T08:09:45.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T08:09:45.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "PurchaseOrder.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\PurchaseOrder.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Model\\PurchaseOrder.cs",
@@ -593,12 +602,11 @@
               "RelativeToolTip": "InventoryManagement\\Model\\PurchaseOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T06:43:05.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T06:43:05.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\ItemDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\ItemDTO.cs",
@@ -606,12 +614,11 @@
               "RelativeToolTip": "InventoryManagement\\DTOs\\ItemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T06:50:10.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T06:50:10.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "CreateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\CreateProductDTO.cs",
@@ -619,12 +626,11 @@
               "RelativeToolTip": "InventoryManagement\\DTOs\\CreateProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T06:32:34.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T06:32:34.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IPurchaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Interface\\IPurchaseRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Interface\\IPurchaseRepository.cs",
@@ -632,12 +638,11 @@
               "RelativeToolTip": "InventoryManagement\\Repository\\Interface\\IPurchaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T13:06:43.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T13:06:43.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "RecordTransaction.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\RecordTransaction.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Model\\RecordTransaction.cs",
@@ -645,12 +650,11 @@
               "RelativeToolTip": "InventoryManagement\\Model\\RecordTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T05:46:33.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T05:46:33.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "StockDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\StockDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\StockDTO.cs",
@@ -658,12 +662,11 @@
               "RelativeToolTip": "InventoryManagement\\DTOs\\StockDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T09:50:05.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T09:50:05.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Interface\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Interface\\IUnitOfWork.cs",
@@ -671,12 +674,11 @@
               "RelativeToolTip": "InventoryManagement\\Repository\\Interface\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T06:06:50.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T06:06:50.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "IInventoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Interface\\IInventoryRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Interface\\IInventoryRepository.cs",
@@ -684,12 +686,11 @@
               "RelativeToolTip": "InventoryManagement\\Repository\\Interface\\IInventoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T12:59:16.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T12:59:16.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "TransferStockDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\TransferStockDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\TransferStockDTO.cs",
@@ -697,12 +698,11 @@
               "RelativeToolTip": "InventoryManagement\\DTOs\\TransferStockDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T09:53:15.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T09:53:15.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "WareHouse.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\WareHouse.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Model\\WareHouse.cs",
@@ -710,12 +710,11 @@
               "RelativeToolTip": "InventoryManagement\\Model\\WareHouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T06:42:59.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T06:42:59.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "IInventoryService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Interface\\IInventoryService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Interface\\IInventoryService.cs",
@@ -723,12 +722,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Interface\\IInventoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T05:38:57.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T05:38:57.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "IWareHouseService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Interface\\IWareHouseService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Interface\\IWareHouseService.cs",
@@ -736,12 +734,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Interface\\IWareHouseService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T05:28:37.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T05:28:37.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ISupplierService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Interface\\ISupplierService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Interface\\ISupplierService.cs",
@@ -749,12 +746,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Interface\\ISupplierService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T05:14:33.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T05:14:33.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "ResponseInventoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\ResponseInventoryDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\ResponseInventoryDTO.cs",
@@ -762,12 +758,11 @@
               "RelativeToolTip": "InventoryManagement\\DTOs\\ResponseInventoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T09:55:51.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T09:55:51.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Services\\Interface\\ICategoryService.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Services\\Interface\\ICategoryService.cs",
@@ -775,12 +770,11 @@
               "RelativeToolTip": "InventoryManagement\\Services\\Interface\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T04:47:56.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T04:47:56.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Implementation\\GenericRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Implementation\\GenericRepository.cs",
@@ -792,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Interface\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Interface\\IGenericRepository.cs",
@@ -804,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Implementation\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Implementation\\UnitOfWork.cs",
@@ -816,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "PurchaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Implementation\\PurchaseRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Implementation\\PurchaseRepository.cs",
@@ -828,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "InventoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Repository\\Implementation\\InventoryRepository.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Repository\\Implementation\\InventoryRepository.cs",
@@ -840,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "UpdateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\UpdateProductDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\UpdateProductDTO.cs",
@@ -852,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "InventoryProfile.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Mappings\\InventoryProfile.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Mappings\\InventoryProfile.cs",
@@ -864,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "ResponseOrderPurchaseDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\ResponseOrderPurchaseDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\ResponseOrderPurchaseDTO.cs",
@@ -876,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "WareHouseMapping.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Mappings\\WareHouseMapping.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Mappings\\WareHouseMapping.cs",
@@ -888,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "SupplierMapping.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Mappings\\SupplierMapping.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Mappings\\SupplierMapping.cs",
@@ -900,7 +894,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "ProductMapping.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Mappings\\ProductMapping.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Mappings\\ProductMapping.cs",
@@ -912,7 +906,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "ResponseWareHouseDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\ResponseWareHouseDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\ResponseWareHouseDTO.cs",
@@ -924,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "UpdateWareHouseDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\UpdateWareHouseDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\UpdateWareHouseDTO.cs",
@@ -936,7 +930,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "ResponseSupplierDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\ResponseSupplierDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\ResponseSupplierDTO.cs",
@@ -948,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "UpdateSupplierDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\UpdateSupplierDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\UpdateSupplierDTO.cs",
@@ -960,7 +954,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "ResponseProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\ResponseProductDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\ResponseProductDTO.cs",
@@ -972,7 +966,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "CreateWareHouseDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\CreateWareHouseDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\CreateWareHouseDTO.cs",
@@ -984,7 +978,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "CreateSupplierDTO.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\DTOs\\CreateSupplierDTO.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\DTOs\\CreateSupplierDTO.cs",
@@ -996,7 +990,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\Supplier.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Model\\Supplier.cs",
@@ -1008,7 +1002,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\Product.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Model\\Product.cs",
@@ -1020,7 +1014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "RecordTransactionConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\RecordTransactionConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\RecordTransactionConfiguration.cs",
@@ -1032,7 +1026,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "SupplierConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\SupplierConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\SupplierConfiguration.cs",
@@ -1044,7 +1038,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 62,
               "Title": "WareHouseConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\WareHouseConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\WareHouseConfiguration.cs",
@@ -1056,7 +1050,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 63,
               "Title": "PurchaseOrderItemConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\PurchaseOrderItemConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\PurchaseOrderItemConfiguration.cs",
@@ -1068,7 +1062,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "PurchaseOrderConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\PurchaseOrderConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\PurchaseOrderConfiguration.cs",
@@ -1080,7 +1074,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 65,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\ProductConfiguration.cs",
@@ -1092,7 +1086,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 66,
               "Title": "InventoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\InventoryConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\InventoryConfiguration.cs",
@@ -1104,7 +1098,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 67,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Configuration\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Data\\Configuration\\CategoryConfiguration.cs",
@@ -1116,19 +1110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "InventoryManagement\\Data\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Data\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "InventoryManagement\\Data\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T10:14:11.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\bhautik.ranpara\\source\\repos\\MCPs\\InventoryManagement\\InventoryManagement\\Model\\BaseEntity.cs",
               "RelativeDocumentMoniker": "InventoryManagement\\Model\\BaseEntity.cs",
