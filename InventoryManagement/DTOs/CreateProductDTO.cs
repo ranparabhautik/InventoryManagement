@@ -9,3 +9,6 @@ public class CreateProductDTO
     public Guid CategoryId { get; set; }
     public Guid SupplierId { get; set; }
 }
+
+
+

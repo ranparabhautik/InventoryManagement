@@ -23,6 +23,7 @@ public class GenericRepository<T>(AppDbContext context) : IGenericRepository<T> 
     public async Task<IEnumerable<T>> GetAllAsync()
     {
         return await _dbset.ToListAsync();
+        //return await _dbset.IgnoreQueryFilters().ToListAsync();
     }
 
     public async Task<T?> GetByIdAsync(Guid id)

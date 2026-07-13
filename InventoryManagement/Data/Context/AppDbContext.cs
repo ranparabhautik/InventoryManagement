@@ -23,6 +23,7 @@ public class AppDbContext(DbContextOptions<AppDbContext> option):DbContext(optio
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(AppDbContext).Assembly);
+        modelBuilder.Entity<Product>().HasQueryFilter(x => !x.IsDeleted);
         base.OnModelCreating(modelBuilder);
     }
 

@@ -7,5 +7,5 @@ public interface IProductRepository:IGenericRepository<Product>
 {
     Task<IEnumerable<Product>> GetLowStockProduct();
     Task<Product?> GetProductDetails(Guid id);
-
+    Task<IEnumerable<Product>> GetAllProductsAsync();
 }

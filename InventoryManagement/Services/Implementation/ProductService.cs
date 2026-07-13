@@ -17,13 +17,27 @@ public class ProductService(IUnitOfWork uow,IMapper _mapper) : IProductService
 
     public async Task DeleteProduct(Guid id)
     {
-        await uow.ProductRepo.DeleteAsync(id);
+        var existing = await uow.ProductRepo.GetByIdAsync(id);
+        if (existing == null)
+        {
+            throw new Exception("Product not found");
+        }
+        if(existing is ISoftDelete softdel)
+        {
+            existing.IsDeleted = true;
+            await uow.ProductRepo.UpdateAsync(existing);
+        }
+        else
+        {
+            await uow.ProductRepo.DeleteAsync(id);
+        }
+        
         await uow.SaveChangesAllAsync();
     }
 
     public async Task<IEnumerable<ResponseProductDTO>> GetAllProducts()
     {
-        var AllProducts = await uow.ProductRepo.GetAllAsync();
+        var AllProducts = await uow.ProductRepo.GetAllProductsAsync();
         var result = _mapper.Map<IEnumerable<ResponseProductDTO>>(AllProducts);     
         return result;
     }

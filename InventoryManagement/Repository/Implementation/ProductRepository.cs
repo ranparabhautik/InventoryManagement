@@ -7,6 +7,11 @@ namespace InventoryManagement.Repository.Implementation;
 
 public class ProductRepository(AppDbContext context) : GenericRepository<Product>(context), IProductRepository
 {
+    public async Task<IEnumerable<Product>> GetAllProductsAsync()
+    {
+        return await _context.Products.Include(x => x.Supplier).Include(x => x.ProductCategories).ToListAsync();
+    }
+
     public async Task<IEnumerable<Product>> GetLowStockProduct()
     {
         return await _context.Products.Where(x => x.ProductStock < x.MinAlert).ToListAsync();
